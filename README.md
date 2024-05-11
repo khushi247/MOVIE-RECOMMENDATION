@@ -44,3 +44,7 @@ Possible enhancements to this project include:
 - **Movie Recommendations Based on Similarity**: Developing a recommendation system based on movie similarity or user preferences.
 - **Exploring Additional Features**: Analyzing additional features like movie genres, directors, or release years to refine the recommendations.
 - **User-Centric Recommendations**: Shifting from top-rated movie recommendations to personalized recommendations based on user behavior and preferences.
+
+## Link to the dataset
+https://www.kaggle.com/datasets/dev0914sharma/dataset
+
